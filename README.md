@@ -10,7 +10,7 @@
   
 #### Clone the Project
 ```
-git clone git@https://github.com/Suhani-Web004/Loan_eligibility
+git clone git@https://github.com/Pankaj7223/Loan_Eligibility_prediction
 ```
 
 #### Go to Project Directory
