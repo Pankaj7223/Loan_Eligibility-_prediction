@@ -10,7 +10,7 @@
   
 #### Clone the Project
 ```
-git clone git@https://github.com/
+git clone git@https://github.com/Suhani-Web004/Loan_eligibility
 ```
 
 #### Go to Project Directory
@@ -48,7 +48,7 @@ http://localhost:8000/
 ```
 
 #### Update the Code
-
+- `Reach the dentify-ai directory first`<br>
 
 ```
 git pull
